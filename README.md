@@ -26,18 +26,8 @@ exemplos_amostras.ipynb  | Alguns aplicações em amostras da base
 
 Os códigos estão adaptados para serem executados no ambiente Google Colaboratory com o serviço Google Drive,para acesso a base de imagens e salvar resultados. 
 
-Copie os arquivos do link : [Pasta PH2Dataset](https://drive.google.com/drive/folders/1HAljwyIbhS-YirRsyHvo30EwEFcf1knU?usp=sharing) para uma pasta com o nome "PH2Dataset" na pasta raiz do seu Google Drive, esses são os arquivos da base de imagens. 
+Copie os arquivos do link: [Pasta PH2Dataset](https://drive.google.com/drive/folders/1HAljwyIbhS-YirRsyHvo30EwEFcf1knU?usp=sharing) para uma pasta com o nome "PH2Dataset" na pasta raiz do seu Google Drive, esses são os arquivos da base de imagens. 
 
-Copie os arquivos do link : [Pasta PH2_TCC](https://drive.google.com/drive/folders/1oQYjKo3JI8GjnyLOqPDWe8UE4g1QQH3x?usp=sharing) para uma pasta com o nome "PH2_TCC" na pasta raiz do seu Google Drive, esses são os arquivos dos resultados dos experimentos. 
+Copie os arquivos do link: [Pasta PH2_TCC](https://drive.google.com/drive/folders/1oQYjKo3JI8GjnyLOqPDWe8UE4g1QQH3x?usp=sharing) para uma pasta com o nome "PH2_TCC" na pasta raiz do seu Google Drive, esses são os arquivos dos resultados dos experimentos. 
 
 Para rodar os notebooks em outro ambiente é necessária a realização de adaptações nos códigos, para mudar o caminho para a base de imagens e onde irá salvar os resultados. 
-
-## Metodologia dos Experimentos
-
-### Segmentadores
-
-### Pré-Processamento
-
-### Pós-processamento
-
-## Resultados 
